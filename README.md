@@ -74,3 +74,95 @@ PCA
        ↓
 Business Insi
 ```
+------
+
+Technologies Used
+
+Python
+Pandas and NumPy
+Scikit-learn
+Matplotlib and Seaborn
+Streamlit (if used)
+
+----
+
+Machine Learning Algorithms
+
+K-Means Clustering: Groups customers with similar spending patterns.
+PCA: Reduces data dimensions for 2D visualization.
+Elbow Method: Helps select the number of clusters.
+Silhouette Score: Evaluates cluster quality.
+
+----
+
+Workflow
+
+Dataset → Data Preprocessing → Feature Scaling
+        → Elbow Method → K-Means Clustering
+        → PCA Visualization → Business Insights
+
+        ----
+
+        Project Structure
+        
+Wholesale-AI/
+├── data/
+│   └── wholesale_customers.csv
+├── app.py
+├── requirements.txt
+└── README.md
+
+----
+
+Results
+
+The system groups customers based on their spending behavior and visualizes the resulting clusters using PCA.
+
+Expected outcomes:
+
+Identification of customer segments.
+Better understanding of purchasing patterns.
+Data-driven business insights.
+
+----
+
+Business Insights
+
+Identify high-spending customer groups.
+Understand product category preferences.
+Support targeted marketing strategies.
+Improve customer relationship management.
+Support inventory planning.
+
+----
+
+⚙️ Installation and Usage
+
+1. Clone the repository
+
+git clone <your-repository-url>
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the application (if using Streamlit)
+
+streamlit run app.py
+
+---
+
+Conclusion
+
+Wholesale AI demonstrates how Machine Learning can identify customer segments and analyze purchasing behavior.
+It helps businesses understand customer patterns and make better data-driven decisions.
+
+----
+
+👩‍💻 Author
+
+Jaya Bhunte
+Artificial Intelligence and Data Science Engineering Student.
+
+
+
