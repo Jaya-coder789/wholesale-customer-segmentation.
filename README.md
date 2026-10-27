@@ -97,9 +97,9 @@ Business Insi
 
 ## 🔄 Workflow
 
-Dataset → Data Preprocessing → Feature Scaling
-        → Elbow Method → K-Means Clustering
-        → PCA Visualization → Business Insights
+ * Dataset → Data Preprocessing → Feature Scaling
+      *   → Elbow Method → K-Means Clustering
+       *  → PCA Visualization → Business Insights
 
         ----
 
