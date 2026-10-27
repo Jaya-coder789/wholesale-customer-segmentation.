@@ -76,7 +76,7 @@ Business Insi
 ```
 ------
 
-Technologies Used
+## 🔄Technologies Used
 
 Python
 Pandas and NumPy
@@ -86,7 +86,7 @@ Streamlit (if used)
 
 ----
 
-Machine Learning Algorithms
+## 🧠 Machine Learning Algorithms
 
 K-Means Clustering: Groups customers with similar spending patterns.
 PCA: Reduces data dimensions for 2D visualization.
@@ -95,7 +95,7 @@ Silhouette Score: Evaluates cluster quality.
 
 ----
 
-Workflow
+## 🔄 Workflow
 
 Dataset → Data Preprocessing → Feature Scaling
         → Elbow Method → K-Means Clustering
@@ -103,7 +103,7 @@ Dataset → Data Preprocessing → Feature Scaling
 
         ----
 
-        Project Structure
+## 📁Project Structure
         
 Wholesale-AI/
 ├── data/
@@ -114,11 +114,11 @@ Wholesale-AI/
 
 ----
 
-Results
+## Results
 
 The system groups customers based on their spending behavior and visualizes the resulting clusters using PCA.
 
-Expected outcomes:
+## Expected outcomes:
 
 Identification of customer segments.
 Better understanding of purchasing patterns.
@@ -126,7 +126,7 @@ Data-driven business insights.
 
 ----
 
-Business Insights
+## 💡Business Insights
 
 Identify high-spending customer groups.
 Understand product category preferences.
@@ -136,7 +136,7 @@ Support inventory planning.
 
 ----
 
-⚙️ Installation and Usage
+## ⚙️ Installation and Usage
 
 1. Clone the repository
 
@@ -151,15 +151,13 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ---
+## ✅ Conclusion
 
-Conclusion
-
-Wholesale AI demonstrates how Machine Learning can identify customer segments and analyze purchasing behavior.
-It helps businesses understand customer patterns and make better data-driven decisions.
+Wholesale AI uses Machine Learning to analyze customer purchasing behavior and group similar customers using K-Means Clustering. PCA helps visualize customer segments, while the Elbow Method and Silhouette Score help evaluate clustering quality. This project helps businesses understand customer spending patterns, improve marketing strategies, and make better data-driven decisions.
 
 ----
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Jaya Bhunte
 Artificial Intelligence and Data Science Engineering Student.
