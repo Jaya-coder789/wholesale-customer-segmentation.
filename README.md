@@ -78,20 +78,20 @@ Business Insi
 
 ## 🔄Technologies Used
 
-Python
-Pandas and NumPy
-Scikit-learn
-Matplotlib and Seaborn
-Streamlit (if used)
+* Python
+* Pandas and NumPy
+* Scikit-learn
+* Matplotlib and Seaborn
+* Streamlit (if used)
 
 ----
 
 ## 🧠 Machine Learning Algorithms
 
-K-Means Clustering: Groups customers with similar spending patterns.
-PCA: Reduces data dimensions for 2D visualization.
-Elbow Method: Helps select the number of clusters.
-Silhouette Score: Evaluates cluster quality.
+* K-Means Clustering: Groups customers with similar spending patterns.
+* PCA: Reduces data dimensions for 2D visualization.
+* Elbow Method: Helps select the number of clusters.
+* Silhouette Score: Evaluates cluster quality.
 
 ----
 
@@ -120,19 +120,19 @@ The system groups customers based on their spending behavior and visualizes the 
 
 ## Expected outcomes:
 
-Identification of customer segments.
-Better understanding of purchasing patterns.
-Data-driven business insights.
+* Identification of customer segments.
+* Better understanding of purchasing patterns.
+* Data-driven business insights.
 
 ----
 
 ## 💡Business Insights
 
-Identify high-spending customer groups.
-Understand product category preferences.
-Support targeted marketing strategies.
-Improve customer relationship management.
-Support inventory planning.
+* Identify high-spending customer groups.
+* Understand product category preferences.
+* Support targeted marketing strategies.
+* Improve customer relationship management.
+* Support inventory planning.
 
 ----
 
